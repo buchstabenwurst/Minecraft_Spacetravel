@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "side": "spacetravel:blocks/travelblock_side",
+        "bottom": "spacetravel:blocks/travelblock_top",
+        "top": "spacetravel:blocks/travelblock_top"
+    }
+}
